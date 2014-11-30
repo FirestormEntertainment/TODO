@@ -1,36 +1,6 @@
 TODO
-====
 
-Lukas Westling:
+======
 
-Internal PvP Test (12-5):
-
-Spells & Abilities
-Player Vs Player
-Server Stability
-Buff/Debuff System
-
-F&F (12-20):
-
-Client - Class, Abilities & Buff Loader
-Client - Classes
-Client - Login Screen
-Client - Server Finder
-Client - Menus
-Client - Options
-Client - Leveling System
-
-Server - Hit Detection
-Server - More Stability Improvements
-Server - Maps
-Server - Login System
-Server - MySQL Connection
-Server - PHP Website Connections
-Server - HTTPS Server Connector
-Server - Saving / Loading
-
-Maps - Entitys, Scripts & AI
-
-Tools - Class, Abilities & Buff Creator
-
+Write down what you must do for Internal PVP Test & F&F!
 
