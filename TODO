@@ -1,32 +1,17 @@
-Lukas Westling:
+Patch Story:
 
-Internal PvP Test (12-5):
+0.6:
 
-Spells & Abilities
-Player Vs Player
-Server Stability
-Buff/Debuff System
+- XP And Kill/Respawn System
+- Mini Script Implementation
+- Login
+- Server Finder
+- SQL
+- Entity & Player Merge
 
-F&F (12-20):
+0.7:
 
-Client - Class, Abilities & Buff Loader
-Client - Classes
-Client - Login Screen
-Client - Server Finder
-Client - Menus
-Client - Options
-Client - Leveling System
-
-Server - Hit Detection
-Server - More Stability Improvements
-Server - Maps
-Server - Login System
-Server - MySQL Connection
-Server - PHP Website Connections
-Server - HTTPS Server Connector
-Server - Saving / Loading
-
-Maps - Entitys, Scripts & AI
-
-Tools - Class, Abilities & Buff Creator
-
+- Interface System
+- Leveling, Class & Spell System
+- More Scripts
+- Better Server Implementation
