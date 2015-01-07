@@ -1,13 +1,6 @@
-server={85.230.73.120, 6665, Main-Server, 1}
+server={192.168.8.100, 6665, Main-Server, 1}
 server={85.230.73.120, 6666, Shattered-Hand, 2}
 server={85.230.73.120, 6666, Outlands, 3}
 server={85.230.73.120, 6666, En-Shattrath-Hand, 4}
-server={85.230.73.120, 6666, RS07, 2}
-server={85.230.73.120, 6666, Southpark, 3}
-server={85.230.73.120, 6666, One-Does-Not-Simply, 4}
-server={85.230.73.120, 6666, Travel-to-Mordor, 1}
-server={85.230.73.120, 6666, Realm-Of-Douchebags, 4}
-server={85.230.73.120, 6666, Mad-Godz, 1}
-server={85.230.73.120, 6666, Pro-Only-670 ilvl+, 2}
-server={85.230.73.120, 6666, No-Girls, 3}
-server={85.230.73.120, 6666, Fucking-Sexist-game, 4}
+server={192.168.8.100, 6666, Joina-Denna-Server-Johan, 2}
+
