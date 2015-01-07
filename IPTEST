@@ -1,5 +1,5 @@
 server={192.168.8.100, 6665, Main-Server, 1}
-server={85.230.73.120, 6666, Shattered-Hand, 2}
+server={192.168.8.100, 6666, Shattered-Hand, 2}
 server={85.230.73.120, 6666, Outlands, 3}
 server={85.230.73.120, 6666, En-Shattrath-Hand, 4}
 server={192.168.8.100, 6666, Joina-Denna-Server-Johan, 2}
