@@ -1,6 +1,6 @@
-server={127.0.0.1, 6665, Main-Server, 1}
+server={85.230.73.120, 6665, Main-Server, 1}
 server={192.168.8.100, 6666, Shattered-Hand, 2}
 server={85.230.73.120, 6666, Outlands, 3}
 server={127.0.0.1, 6666, Don't-Join-This, 4}
-server={192.168.8.100, 6666, Server-Test-1, 2}
+server={85.230.73.120, 6666, Server-Test-1, 2}
 
