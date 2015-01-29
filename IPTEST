@@ -1,4 +1,3 @@
-server={192.168.8.100, 6665, Main-Server, 1}
-server={192.168.8.100, 6666, Server-Test-1, 2}
-server={127.0.0.1, 6666, Don't-Join-This, 3}
+server={http://www.betrayedbygods.com, 6665, Main-Server, 1}
+server={http://www.betrayedbygods.com, 6666, Official Server, 2}
 
