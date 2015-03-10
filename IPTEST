@@ -1,3 +1,4 @@
 server={212.181.48.38, 6665, Main-Server, 1}
 server={212.181.48.38, 6666, Official-Server, 2}
+server={212.181.48.38, 6666, PTR, 3}
 
