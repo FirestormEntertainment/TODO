@@ -1,4 +1,5 @@
 server={127.0.0.1, 6666, Main-Server, 1}
-server={80.78.216.3, 6666, Official-Server, 2}
-server={80.78.216.3, 6666, PTR, 3}
+server={127.0.0.1, 6667, Home, 2}
+server={80.78.216.3, 6666, Official-Server, 3}
+server={80.78.216.3, 6666, PTR, 4}
 
